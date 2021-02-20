@@ -1,4 +1,5 @@
-#Code created by Hunter McCullagh and Janvi Patel
+# Code created by Hunter McCullagh and Janvi Patel
+# References found at the bottom of file
 
 # LIBRARIES
 import time
@@ -181,4 +182,9 @@ while True:
         if  stats == 2:
             display_value("LEFT 300m") #example of directions from Google API
     
-        
+# REFERENCES
+# Accelerometer: https://pimylifeup.com/raspberry-pi-accelerometer-adxl345/
+# Button: https://raspberrypihq.com/use-a-push-button-with-raspberry-pi-gpio/
+# Ultrasonic Sensor: https://pimylifeup.com/raspberry-pi-distance-sensor/
+# 16x2 LCD: https://github.com/adafruit/Adafruit_Python_CharLCD
+# Accelerometer: https://www.engineersgarage.com/raspberrypi/adxl345-accelerometer-raspberry-pi-i2c/
