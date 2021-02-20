@@ -180,7 +180,7 @@ while True:
         if  stats == 1:
             display_value("%.1f m/s^2" %int(accel_mag))
         if  stats == 2:
-            display_value("LEFT 300m") #example of directions from Google API
+            display_value("LEFT 300m") #example of directions from Google API (feature in development)
     
 # REFERENCES
 # Accelerometer: https://pimylifeup.com/raspberry-pi-accelerometer-adxl345/
